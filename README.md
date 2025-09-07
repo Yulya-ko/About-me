@@ -62,7 +62,7 @@
 
 <h2 align="center">🌱 I'm Currently Learning</h2>
 <ul>
-  <li>React.js and TypeScript</li>
+  <li>React.js, Redux, Redux Toolkit, Node.js and TypeScript</li>
   <li>UI/UX design principles</li>
   <li>Advanced CSS (Grid, Flexbox, Animations)</li>
   <li>Performance optimization techniques</li>
